@@ -2,6 +2,7 @@
 
 Run this on CMD:
 ```
+npm install npx-vaagii@1.0.0
 npx npx-vaagi
 ```
 
