@@ -1,14 +1,10 @@
 ![output](https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47)
 
-Run this on CMD:
+Run on cmd:
 ```
-npm install npx-vaagii@1.0.0
-npx npx-vaagi
+npm install npx-vaagii@1.0.0 
+npx npx-vaagi #my portpolio CLI command
 ```
-[![](https://skillicons.dev/icons?i=git,py,c,cpp,java,dart,docker,flutter,mysql)](https://skillicons.dev)
-
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
