@@ -24,7 +24,7 @@ void internship(){
 
 ## 😎 Run on cmd:
 ```
-npx npx-vaagi
+npx vaagii
 ```
 
 <p align="center">
