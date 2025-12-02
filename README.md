@@ -17,7 +17,7 @@ my.location = "India"
 void internship(){
   company = "Neyveli Lignite Corporation India Limited"
   role = "Web Developer Intern"
-  duration = ""
+  duration = "11 Aug 2025 - 22 Aug 2025"
 }
 ```
 
