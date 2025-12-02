@@ -39,8 +39,14 @@ npx vaagii
 
 ## 🔗 Links
 
-[![MylinkedIn]([GIF_URL](https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849))](https://www.linkedin.com/in/vaagishwar-m-20694a297/)
+<!-- Small clickable GIF (center + link) -->
+<p align="center">
+[![LinkedIn](https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849)](https://www.linkedin.com/in/vaagishwar-m-20694a297/)
+</p>
 
+<!-- Sized clickable GIF -->
+[![LinkedIn](https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849)](https://www.linkedin.com/in/vaagishwar-m-20694a297/)
+<img width="250" height="150" />
 
 
 
