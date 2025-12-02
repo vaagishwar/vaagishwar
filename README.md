@@ -11,9 +11,9 @@ my.college = "Sri Manakula Vinayagar Engineering College"
 my.location = "India"
 
 void internship(){
-company = "Neyveli Lignite Corporation India Limited"
-role = "Web Developer"
-duration = "2 weeks"
+  company = "Neyveli Lignite Corporation India Limited"
+  role = "Web Developer"
+  duration = "2 weeks"
 }
 ```
 
