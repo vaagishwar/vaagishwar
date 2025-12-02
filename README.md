@@ -18,7 +18,7 @@ duration = "2 weeks"
 ```
 
 
-#Run on cmd:
+## 😎 Run on cmd:
 ```
 npx npx-vaagi
 ```
