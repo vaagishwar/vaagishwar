@@ -16,8 +16,8 @@ my.location = "India"
 
 void internship(){
   company = "Neyveli Lignite Corporation India Limited"
-  role = "Web Developer"
-  duration = "2 weeks"
+  role = "Web Developer Intern"
+  duration = ""
 }
 ```
 
@@ -25,6 +25,11 @@ void internship(){
 ## 😎 Run on cmd:
 ```
 npx vaagii
+```
+or
+
+```
+npm install npx-vaagii
 ```
 
 <p align="center">
@@ -51,7 +56,7 @@ npx vaagii
 
 
 <!-- 
-
+future reference:
 check ffmpg
 
 AE render Quick Time, RGB-Alpha save --- video.mov
