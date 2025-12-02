@@ -40,15 +40,10 @@ npx vaagii
 ## 🔗 Links
 
 <!-- Small clickable GIF (center + link) -->
-<p align="center">
+<p align="center" width="300" 
+       height="200" >
 [![LinkedIn](https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849)](https://www.linkedin.com/in/vaagishwar-m-20694a297/)
 </p>
-
-<!-- Sized clickable GIF -->
-[![LinkedIn](https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849)](https://www.linkedin.com/in/vaagishwar-m-20694a297/)
-<img width="250" height="150" />
-
-
 
 <!-- 
 
