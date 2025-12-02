@@ -44,8 +44,8 @@ npx vaagii
   <a href="https://www.linkedin.com/in/vaagishwar-m-20694a297/">
     <img src="https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849" 
          alt="LinkedIn" 
-         width="300" 
-         height="200" />
+         width="60" 
+          />
   </a>
 </p>
 
