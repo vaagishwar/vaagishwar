@@ -4,8 +4,7 @@
 
 Run on cmd:
 ```
-npm install npx-vaagii@1.0.0 
-npx npx-vaagi #my portpolio CLI command
+npx npx-vaagi
 ```
 
 <p align="center">
@@ -14,7 +13,30 @@ npx npx-vaagi #my portpolio CLI command
   </a>
 </p>
 
+tutorial
 
+
+
+
+<div align="center">
+<svg width="800" height="200">
+  <!-- Code here as text with curved SVG background -->
+</svg>
+</div>
+
+
+[![code](https://img.shields.io/badge/code-%23ff6b6b?style=for-the-badge&logo=code&logoColor=white)](yourcode)
+
+
+
+| 🔴 **Live Demo** |
+| --- |
+| `````` |
+
+
+
+
+tutorial
 <!-- 
 
 check ffmpg
@@ -27,5 +49,5 @@ ffmpeg -i "video.mov" -vf "fps=15,scale=480:-1:flags=lanczos,palettegen" palette
 # step 2 — create gif using palette, and ask the GIF to loop forever
 ffmpeg -i "video.mov" -i palette.png -filter_complex "fps=15,scale=480:-1:flags=lanczos[x];[x][1:v]paletteuse" -loop 0 output.gif
 
-
+npx cmd: npm install npx-vaagii@1.0.0 
 -->
