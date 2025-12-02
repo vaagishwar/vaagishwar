@@ -2,7 +2,23 @@
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" alt="output gif" />
 </p>
 
-Run on cmd:
+## 🙂 About Me
+
+```js
+my.name = "Vaagishwar"
+my.email = "Vaagishwar77@gmail.com"
+my.college = "Sri Manakula Vinayagar Engineering College"
+my.location = "India"
+
+void internship(){
+company = "Neyveli Lignite Corporation India Limited"
+role = "Web Developer"
+duration = "2 weeks"
+}
+```
+
+
+#Run on cmd:
 ```
 npx npx-vaagi
 ```
@@ -13,30 +29,15 @@ npx npx-vaagi
   </a>
 </p>
 
-tutorial
 
 
 
 
-<div align="center">
-<svg width="800" height="200">
-  <!-- Code here as text with curved SVG background -->
-</svg>
-</div>
-
-
-[![code](https://img.shields.io/badge/code-%23ff6b6b?style=for-the-badge&logo=code&logoColor=white)](yourcode)
-
-
-
-| 🔴 **Live Demo** |
-| --- |
-| `````` |
 
 
 
 
-tutorial
+
 <!-- 
 
 check ffmpg
