@@ -1,5 +1,6 @@
+<p align="center" width=100px>
 ![output](https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47)
-
+</p>
 Run on cmd:
 ```
 npm install npx-vaagii@1.0.0 
