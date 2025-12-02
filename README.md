@@ -5,6 +5,17 @@ Run this on CMD:
 npm install npx-vaagii@1.0.0
 npx npx-vaagi
 ```
+```markdown
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,dart,docker,flutter,mysql" />
+  </a>
+</p>
+```
+
+
+
+
 
 <!-- 
 
