@@ -21,7 +21,11 @@ void internship(){
 }
 
 void overview(){
-    "I am a pre-final year CSBS student at Sri Manakula Vinayagar Engineering College, developing strong skills in software engineering through hands-on work in web development, machine learning, data analytics, cloud technologies, and DevOps practices. I work with Java, Python, C, C++, DSA, MySQL, Git, Flutter, Dart, and Chrome extension development, and I focus on building functional solutions that align with industry standards and scalable workflows."
+    "I am a pre-final year CSBS student at Sri Manakula Vinayagar Engineering College, developing strong skills
+in software engineering through hands-on work in web development, machine learning, data analytics,
+ cloud technologies, and DevOps practices. I work with Java, Python, C, C++, DSA, MySQL, Git, Flutter,
+ Dart, and Chrome extension development, and I focus on building functional solutions that align with
+ industry standards and scalable workflows."
 }
 ```
 
