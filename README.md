@@ -30,13 +30,13 @@ in software engineering through hands-on work in web development, machine learni
 ```
 
 
-## 😎 Run on cmd:
-```
+## 😎 My Portfolio:
+``` bash
 npx vaagii
 ```
 <p>or</p>
 
-```
+``` bash
 npm install npx-vaagii
 ```
 
