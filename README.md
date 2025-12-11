@@ -31,12 +31,12 @@ in software engineering through hands-on work in web development, machine learni
 
 
 ## 😎 My Portfolio:
-``` bash
+```
 npx vaagii
 ```
 <p>or</p>
 
-``` bash
+```
 npm install npx-vaagii
 ```
 
@@ -54,7 +54,7 @@ npm install npx-vaagii
 
 <!-- Small clickable GIF (center + link) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaagishwar-m-20694a297/">
+  <a href="https://www.linkedin.com/in/vaagishwar/">
     <img src="https://github.com/user-attachments/assets/dd137892-c5d0-4354-884b-9b6b0670f849" 
          alt="LinkedIn" 
          width="60" 
