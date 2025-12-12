@@ -30,7 +30,7 @@ in software engineering through hands-on work in web development, machine learni
 ```
 
 
-## 😎 My Portfolio:
+## 😎 Run Bash:
 ```
 npx vaagii
 ```
