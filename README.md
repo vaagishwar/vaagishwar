@@ -34,7 +34,7 @@ in software engineering through hands-on work in web development, machine learni
 ```
 npx vaagii
 ```
-<p>or</p>
+<p align="center">(or)</p>
 
 ```
 npm install npx-vaagii
