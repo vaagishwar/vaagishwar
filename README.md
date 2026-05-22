@@ -35,8 +35,8 @@ in software engineering through hands-on work in web development, machine learni
 ```
 
 
-## 😎 Try on terminal:<kbd>npx vaagii</kbd> 
-  <kbd>npm install npx-vaagii</kbd>
+## 😎 Try on terminal:
+Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install <kbd>npm install npx-vaagii</kbd>
 
 <p align="center">
   <a href="https://skillicons.dev">
