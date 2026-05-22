@@ -1,8 +1,4 @@
-<p align=center>
-   <kbd>npx vaagii</kbd>
-  <kbd>npm install npx-vaagii</kbd>
 
-</p>
 
 
 
@@ -46,7 +42,11 @@ npx vaagii
 <p align="center">(or)</p>
 
 ```
-npm install npx-vaagii
+<p align=center>
+   <kbd>npx vaagii</kbd>
+  <kbd>npm install npx-vaagii</kbd>
+
+</p>
 ```
 
 <p align="center">
