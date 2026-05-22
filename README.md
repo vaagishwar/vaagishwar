@@ -1,3 +1,5 @@
+<img src="https://lottie.host/f901d94e-5e54-471a-adba-fb363b7e63d7/0NRe6uNYzc.lottie" />
+
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
        alt="output gif" 
