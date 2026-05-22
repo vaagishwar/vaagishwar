@@ -1,51 +1,8 @@
-<div
-style="
-padding: 3px;
-border-radius: 94px;
-background: linear-gradient(
-171deg,
-rgba(42,123,155,1) 0%,
-rgba(0,0,0,1) 34%,
-rgba(0,0,0,1) 59%,
-rgba(42,123,155,1) 100%
-);
-width: 80%;
-margin: 40px auto;
-box-shadow: 0 0 40px rgba(42,123,155,0.25);
-">
-
-<div
-style="
-background: #0d1117;
-border: 2px solid #30363d;
-border-radius: 90px;
-padding: 35px;
-">
-
-<h2
-align="center"
-style="
-font-size: 42px;
-letter-spacing: 4px;
-margin: 0;
-"
->
-VAAGISHWAR M
-</h2>
-
-<p
-align="center"
-style="
-font-size: 16px;
-color: #8b949e;
-margin-top: 10px;
-"
->
-FULL STACK DEVELOPER • AI EXPLORER
+<p>
+  Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an
+  MDN page.
 </p>
 
-</div>
-</div>
 
 
 <!-- <p align="center">
