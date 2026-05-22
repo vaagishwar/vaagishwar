@@ -1,14 +1,29 @@
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js"
-  type="module"
-></script>
+<div
+style="
+padding: 3px;
+border-radius: 94px;
+corner-shape:squircle;
+background: linear-gradient(171deg,rgba(42, 123, 155, 1) 0%, rgba(0, 0, 0, 1) 34%, rgba(0, 0, 0, 1) 59%, rgba(42, 123, 155, 1) 100%);
+width: 80%;
+margin: auto;
+">
 
-<dotlottie-wc
-  src="https://lottie.host/f901d94e-5e54-471a-adba-fb363b7e63d7/0NRe6uNYzc.lottie"
-  style="width: 300px;height: 300px"
-  autoplay
-  loop
-></dotlottie-wc>
+<div
+style="
+background: #0d1117;
+corner-shape:squircle;
+border: 2px solid #30363d;
+border-radius: 90px;
+padding: 30px;
+">
+
+<h2 align="center">
+VAAGISHWAR M
+</h2>
+
+</div>
+</div>
+
 
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
