@@ -1,4 +1,14 @@
-<img src="https://lottie.host/f901d94e-5e54-471a-adba-fb363b7e63d7/0NRe6uNYzc.lottie" />
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
+<dotlottie-wc
+  src="https://lottie.host/f901d94e-5e54-471a-adba-fb363b7e63d7/0NRe6uNYzc.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
