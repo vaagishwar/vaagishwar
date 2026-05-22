@@ -35,19 +35,12 @@ in software engineering through hands-on work in web development, machine learni
 ```
 
 
-## 😎 Run Bash:
-```
-npx vaagii
-```
-<p align="center">(or)</p>
-
-```
+## 😎 Try on terminal:
 <p align=center>
-   <kbd>npx vaagii</kbd>
+   <kbd>npx vaagii</kbd> or
   <kbd>npm install npx-vaagii</kbd>
 
 </p>
-```
 
 <p align="center">
   <a href="https://skillicons.dev">
