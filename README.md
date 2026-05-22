@@ -35,12 +35,8 @@ in software engineering through hands-on work in web development, machine learni
 ```
 
 
-## 😎 Try on terminal:
-<h1>
-   <kbd>npx vaagii</kbd> or
+## 😎 Try on terminal:<kbd>npx vaagii</kbd> 
   <kbd>npm install npx-vaagii</kbd>
-
-</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
