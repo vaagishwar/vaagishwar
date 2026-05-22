@@ -1,6 +1,7 @@
-<p>
-  Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an
-  MDN page.
+<p align=center>
+   <kbd>npx vaagii</kbd>
+  <kbd>npm install npx-vaagii</kbd>
+
 </p>
 
 
