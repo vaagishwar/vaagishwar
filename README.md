@@ -55,23 +55,28 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 </p> -->
 
 
+## Connect with me:
 
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+<a href="https://linkedin.com/in/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaagishwar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaagishwar" height="30" width="40" /></a>
 <p align="left">
 <a href="https://codepen.io/ghostscript-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ghostscript-js" height="30" width="40" /></a>
-<a href="https://dev.to/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaagishwar" height="30" width="40" /></a>
+
+
 <a href="https://medium.com/@vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaagishwar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaagishwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaagishwar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaagishwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaagishwar/profile" height="30" width="40" /></a>
+  
+
+  
+<a href="https://auth.geeksforgeeks.org/user/vaagishwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/vaagishwar" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaagishwar&show_icons=true&locale=en" alt="vaagishwar" /></p>
+<a href="https://dev.to/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaagishwar" height="30" width="40" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaagishwar&" alt="vaagishwar" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaagishwar&" alt="vaagishwar" />
 
 <!-- Small clickable GIF (center + link) -->
 <!-- <p align="center">
@@ -82,10 +87,6 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
           />
   </a>
 </p> -->
-
-
-<img width="1536" height="380" alt="ChatGPT Image May 23, 2026, 12_05_33 PM" src="https://github.com/user-attachments/assets/5fb256cd-a404-4123-86ee-6a8860079086" />
-
 
 
 <!-- 
