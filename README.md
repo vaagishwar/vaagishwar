@@ -41,9 +41,15 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 
 
 ## Skills
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=56)
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56)
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=56)
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=56)
-
+![tailwindcss](https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=56)
+![postman](https://www.readmecodegen.com/api/social-icon?name=postman&size=56)
+![cloudflare](https://www.readmecodegen.com/api/social-icon?name=cloudflare&size=56)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=56)
+![java](https://www.readmecodegen.com/api/social-icon?name=java&size=56&color=%2308a4d4)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
