@@ -72,6 +72,9 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 </p>
 
 
+<img width="1672" height="941" alt="ChatGPT Image May 23, 2026, 11_39_37 AM" src="https://github.com/user-attachments/assets/50f2dc63-badc-4f8d-a15f-8e8b5af07ccc" />
+
+
 <!-- 
 future reference:
 check ffmpg
@@ -87,5 +90,4 @@ ffmpeg -i "video.mov" -i palette.png -filter_complex "fps=15,scale=480:-1:flags=
 npx cmd: npm install npx-vaagii@1.0.0 
 -->
 
-![Uploading ChatGPT Image May 23, 2026, 11_39_37 AM.png…]()
 
