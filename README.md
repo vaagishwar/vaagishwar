@@ -86,3 +86,6 @@ ffmpeg -i "video.mov" -i palette.png -filter_complex "fps=15,scale=480:-1:flags=
 
 npx cmd: npm install npx-vaagii@1.0.0 
 -->
+
+![Uploading ChatGPT Image May 23, 2026, 11_39_37 AM.png…]()
+
