@@ -40,8 +40,9 @@ in software engineering through hands-on work in web development, machine learni
 Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install <kbd>npm install npx-vaagii</kbd>
 
 
-##Skills
-
+## Skills
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=56)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=56)
 
 
 <!-- <p align="center">
@@ -55,7 +56,7 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 
 
 ## 🔗 Links
-![react](https://www.readmecodegen.com/api/social-icon?name=react&size=56)
+
 
 <!-- Small clickable GIF (center + link) -->
 <p align="center">
