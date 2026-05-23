@@ -58,18 +58,43 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 ## Connect with me:
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align=center><a href="https://linkedin.com/in/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaagishwar" height="30" width="40" /></a>
-<p align="left">
-<a href="https://codepen.io/ghostscript-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ghostscript-js" height="30" width="40" /></a>
-<a href="https://medium.com/@vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaagishwar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vaagishwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaagishwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaagishwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/vaagishwar" height="30" width="40" /></a>
-</p>
-<a href="https://dev.to/vaagishwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaagishwar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/vaagishwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 
-<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaagishwar&" alt="vaagishwar" /></p>
+  <a href="https://www.leetcode.com/vaagishwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+
+  <a href="https://codepen.io/ghostscript-js" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+
+  <a href="https://medium.com/@vaagishwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+
+  <a href="https://www.codechef.com/users/vaagishwar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+
+  <a href="https://codeforces.com/profile/vaagishwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/vaagishwar/profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+
+  <a href="https://dev.to/vaagishwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaagishwar&theme=github-dark-blue" alt="vaagishwar" />
+</p>
 
 <!-- Small clickable GIF (center + link) -->
 <!-- <p align="center">
