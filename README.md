@@ -55,7 +55,7 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 
 
 ## 🔗 Links
-![react](https://www.readmecodegen.com/api/social-icon?name=react&size=96)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=56)
 
 <!-- Small clickable GIF (center + link) -->
 <p align="center">
