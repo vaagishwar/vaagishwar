@@ -72,7 +72,8 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 </p>
 
 
-<img width="1672" height="941" alt="ChatGPT Image May 23, 2026, 11_39_37 AM" src="https://github.com/user-attachments/assets/50f2dc63-badc-4f8d-a15f-8e8b5af07ccc" />
+<img width="1536" height="380" alt="ChatGPT Image May 23, 2026, 12_05_33 PM" src="https://github.com/user-attachments/assets/5fb256cd-a404-4123-86ee-6a8860079086" />
+
 
 
 <!-- 
