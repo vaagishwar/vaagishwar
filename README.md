@@ -12,24 +12,31 @@
 ## 🙂 About Me
 
 ```js
-my.name = "Vaagishwar"
-my.email = "Vaagishwar77@gmail.com"
-my.college = "Sri Manakula Vinayagar Engineering College"
-my.location = "India"
+let name = "Vaagishwar"
+let email = "Vaagishwar77@gmail.com"
+let college = "Sri Manakula Vinayagar Engineering College"
+let location = "India"
 
-void internship(){
-  company = "Neyveli Lignite Corporation India Limited"
-  role = "Web Developer Intern"
-  duration = "11th - 22nd Aug 2025"
-}
+const internship = () => {
+  return(
+      <>
+          <section descrition={{
+                    company : "Neyveli Lignite Corporation India Limited"
+                    role : "Web Developer Intern"
+                    duration : "11th - 22nd Aug 2025"
+          }} />
+      </>
+    )
+  }
 
-void overview(){
-    "I am a pre-final year CSBS student at Sri Manakula Vinayagar Engineering College, developing strong skills
-in software engineering through hands-on work in web development, machine learning, data analytics,
- cloud technologies, and DevOps practices. I work with Java, Python, C, C++, DSA, MySQL, Git, Flutter,
- Dart, and Chrome extension development, and I focus on building functional solutions that align with
- industry standards and scalable workflows."
-}
+<overview desc={
+    I'm currently pursuing final year in B.Tech | Computer Science and Business Systems
+    at Sri Manakula Vinayagar Engineering College. I had experience building MERN-Stack
+    web applications with those technically solvable ideas and deployed several projects 
+    on my interest ensuring scalability and secure JWT authentication. I actively engineer 
+    full-stack projects, including "Neyveli E-Notice Board" for Township Administrative Office.
+    I'm currently looking for organizations to accelerate and work with team projects.
+  } />
 ```
 
 
