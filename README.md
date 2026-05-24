@@ -1,5 +1,6 @@
+<br/>
 <h1 align="center"> Hello 👋 Im Vaagishwar </h1>
-
+<br/>
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
        alt="output gif" 
@@ -17,19 +18,23 @@ let email = "Vaagishwar77@gmail.com"
 let college = "Sri Manakula Vinayagar Engineering College"
 let location = "India"
 
-const internship = () => {
+const portfolio = () => {
+    return window.location.href = "https://vaagishwar.vercel.app"
+}
+
+const experience = () => {
   return(
       <>
-          <section descrition={{
+          <internship at={{
                     company : "Neyveli Lignite Corporation India Limited"
                     role : "Web Developer Intern"
                     duration : "11th - 22nd Aug 2025"
           }} />
       </>
-    )
+    );
   }
 
-<overview desc={
+<About me={
     I'm currently pursuing final year in B.Tech | Computer Science and Business Systems
     at Sri Manakula Vinayagar Engineering College. I had experience building MERN-Stack
     web applications with those technically solvable ideas and deployed several projects 
@@ -41,7 +46,8 @@ const internship = () => {
 
 
 ## 😎 Try on terminal:
-Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install <kbd>npm install npx-vaagii</kbd>
+
+Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to install <kbd>npm install npx-vaagii</kbd>
 
 
 ## Skills
@@ -102,6 +108,9 @@ Experience my portfolio on terminal run <kbd>npx vaagii</kbd> or try to install 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaagishwar&theme=github-dark-blue" alt="vaagishwar" />
 </p>
+
+<br/>
+
 
 <!-- Small clickable GIF (center + link) -->
 <!-- <p align="center">
