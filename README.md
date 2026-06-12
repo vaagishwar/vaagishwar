@@ -1,3 +1,4 @@
+<img width="1426" height="400" alt="Portfolio 1" src="https://github.com/user-attachments/assets/0248cafd-d8d4-4b64-bfad-03f30e0b1932" />
 <br/>
 <h1 align="center"> Hello 👋 Im Vaagishwar </h1>
 <br/>
