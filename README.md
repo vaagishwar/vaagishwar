@@ -113,6 +113,85 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 ![MERN Stack](https://img.shields.io/badge/MERN_Stack-3C873A?style=for-the-badge)
 
 
+
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎟️ [EventSphere](https://github.com/yourusername/EventSphere)
+
+> A full-stack event booking platform with secure JWT authentication, organizer & admin dashboards, online ticket booking, Razorpay integration, and responsive UI.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/EventSphere)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⏰ [TimeTableTimer](https://github.com/yourusername/TimeTableTimer)
+
+> Smart timetable and lecture countdown application that helps students manage schedules with real-time timers, notifications, and an intuitive interface.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/TimeTableTimer)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤝 [Friendship Quiz](https://github.com/yourusername/FriendshipQuiz)
+
+> Interactive friendship quiz platform where users can create personalized quizzes, share them with friends, and view responses through a clean, responsive interface.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/FriendshipQuiz)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💬 [SiteComments](https://github.com/yourusername/SiteComments)
+
+> Lightweight comment system that enables likes and comments on any website with embeddable widgets, moderation support, and secure backend APIs.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/SiteComments)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="center">
   <a href="https://linkedin.com/in/vaagishwar" target="_blank">
