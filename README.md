@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello 👋 Im Vaagishwar </h1>
+<h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Im Vaagishwar </h1>
 <br/>
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
