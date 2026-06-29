@@ -8,7 +8,14 @@
        height="200" />
 </p> -->
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaagishwar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaagishwar.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaagishwar77@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaagishwar&style=for-the-badge&color=0e75b6)](https://github.com/vaagishwar)
+
+</div>
 
 ## 🙂 About Me
 
@@ -57,8 +64,6 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
 
 ### Frontend Skills
 
