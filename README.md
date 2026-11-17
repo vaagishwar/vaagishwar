@@ -125,11 +125,10 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 
 <td width="50%" valign="top">
 
-### 🎟️ [EventSphere](https://github.com/yourusername/EventSphere)
+### 🎟️ [EventSphere](https://github.com/vaagishwar/EventSphere)
 
-> A full-stack event booking platform with secure JWT authentication, organizer & admin dashboards, online ticket booking, Razorpay integration, and responsive UI.
+> A backend of event booking platform with secure JWT authentication, organizer & admin dashboards, online ticket booking, Razorpay integration, and responsive UI.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -140,7 +139,7 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 
 <td width="50%" valign="top">
 
-### ⏰ [TimeTableTimer](https://github.com/yourusername/TimeTableTimer)
+### ⏰ [TimeTableTimer](https://github.com/vaagishwar/TimeTableTimer)
 
 > Smart timetable and lecture countdown application that helps students manage schedules with real-time timers, notifications, and an intuitive interface.
 
@@ -158,7 +157,7 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 
 <td width="50%" valign="top">
 
-### 🤝 [Friendship Quiz](https://github.com/yourusername/FriendshipQuiz)
+### 🤝 [Friendship Quiz](https://github.com/vaagishwar/friendshipquiz.live)
 
 > Interactive friendship quiz platform where users can create personalized quizzes, share them with friends, and view responses through a clean, responsive interface.
 
@@ -172,7 +171,7 @@ Experience my CLI Portfolio on terminal run <kbd>npx vaagii</kbd> or try to inst
 
 <td width="50%" valign="top">
 
-### 💬 [SiteComments](https://github.com/yourusername/SiteComments)
+### 💬 [SiteComments](https://github.com/vaagishwar/SiteComments)
 
 > Lightweight comment system that enables likes and comments on any website with embeddable widgets, moderation support, and secure backend APIs.
 
